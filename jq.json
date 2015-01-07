@@ -1,0 +1,30 @@
+{
+    "name": "key-counter",
+    "version": "0.0.0",
+    "description": "Count occurances of values across objects and arrays",
+    "homepage": "https://github.com/joelpurra/jq-key-counter",
+    "bugs": "https://github.com/joelpurra/jq-key-counter/issues",
+    "author": {
+        "name": "Joel Purra",
+        "url": "http://joelpurra.com/"
+    },
+    "main": "./jq/main.jq",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/joelpurra/jq-key-counter.git"
+    },
+    "dependencies": {
+        "joelpurra/jq-object-sorting": "^0.1.0"
+    },
+    "engines": {
+        "jq": "^1.5.0",
+        "jqnpm": "^1.0.0"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://joelpurra.mit-license.org/2015"
+    }],
+    "keywords": [
+        "jq-package"
+    ]
+}
