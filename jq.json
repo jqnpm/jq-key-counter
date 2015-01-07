@@ -1,6 +1,6 @@
 {
     "name": "key-counter",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Count occurances of values across objects and arrays",
     "homepage": "https://github.com/joelpurra/jq-key-counter",
     "bugs": "https://github.com/joelpurra/jq-key-counter/issues",
