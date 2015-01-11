@@ -1,7 +1,7 @@
 {
     "name": "key-counter",
     "version": "0.1.0",
-    "description": "Count occurances of values across objects and arrays",
+    "description": "Count occurances of values across objects and arrays.",
     "homepage": "https://github.com/joelpurra/jq-key-counter",
     "bugs": "https://github.com/joelpurra/jq-key-counter/issues",
     "author": {
@@ -22,7 +22,7 @@
     },
     "licenses": [{
         "type": "MIT",
-        "url": "http://joelpurra.mit-license.org/2015"
+        "url": "http://opensource.org/licenses/MIT"
     }],
     "keywords": [
         "jq-package"
