@@ -50,7 +50,7 @@ KeyCounter::create									# {}
 ---
 
 ## License
-Copyright (c) 2014, 2015, Joel Purra <http://joelpurra.com/>
+Copyright (c) 2014, 2015, Joel Purra <https://joelpurra.com/>
 All rights reserved.
 
 When using **jq-key-counter**, comply to the MIT license. Please see the LICENSE file for details.
